@@ -3,10 +3,14 @@ cocos creator games learning demo
 
 this is my first game for creator engine,baseon [Blocks](https://github.com/KuoKuo666/Blocks).  Kuokuo respect!
 
-release notes
-1.promote cocos creator to v2.3.0
-2.rewrite using Typescript and upgrage some stuff
-3.publish to vchat games  (free no ADS)
+# release notes
+
+1. promote cocos creator to v2.3.0
+
+2. rewrite using Typescript and upgrage some stuff
+
+3. published to vchat games  (free & no ADs)
+
 ![preview](https://raw.githubusercontent.com/fanfq/colorblocks/master/release/qrcode.jpg)
 
 
